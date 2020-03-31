@@ -1,7 +1,7 @@
 from InstagramAPI import InstagramAPI
  
-username = '' #get the username for logging out
-password = '' #get the password for logging out
+username = '' #get the username for logging in
+password = '' #get the password for logging in
  
 api = InstagramAPI(username, password)
  
