@@ -12,6 +12,9 @@ Its main functions include:
 pip install -r requirements.txt
 ```
 
+Project continuation, improved data and more detailed information:
+https://github.com/maksprotsyk/homework/blob/master/README.md
+
 ## Credits:
 * Diana Kmet
 * Maksym Protsyk
